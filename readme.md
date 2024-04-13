@@ -1,0 +1,3 @@
+The idea here is to create a menu generator, where the user will enter the item and the price and will be able to download the generated image, already in the standard size for the Instagram storie.
+
+This is being built following the voices in my head (lol), and as I had no idea how to transform a div into an image, the basis came from [DBins blog](https://blog.dbins.com.br/exportar-html-para-imagem-com-javascript "DBins blog") and the library [html2canvas](https://html2canvas.hertzen.com/ "html2canvas") is being used.
