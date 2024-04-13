@@ -1,0 +1,12 @@
+h1 {
+    font-size: 16px
+}
+
+div {
+    float: left;
+    padding: 20px;
+}
+
+#result {
+    background-color: #d3d3d3;
+}
